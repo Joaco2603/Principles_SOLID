@@ -2,7 +2,7 @@
 
 ![Logo de Python](py_img.png)
 
-# It seems like there might be a slight confusion in your request. "Principios solid" doesn't translate directly into English with a clear meaning. If you meant "principios sólidos," which translates to "solid principles" in English, it could refer to various concepts depending on the context.
+# The SOLID principles are a set of five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. 
 
 * Single Responsibility Principle (SRP): A class should have only one reason to change, meaning that it should have only one responsibility.
 
